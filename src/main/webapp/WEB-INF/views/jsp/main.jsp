@@ -35,7 +35,7 @@
 
 	<div class="row">
 		<div class="col-md-4">
-			<h2>Fun</h2>
+			<h2>Fan</h2>
 			<p>
 				Off<input type="radio" name="fun" value="off" <c:if test="${'off' eq fun}"> checked </c:if>>
 				On<input type="radio" name="fun" value="on" <c:if test="${'on' eq fun}"> checked </c:if>>

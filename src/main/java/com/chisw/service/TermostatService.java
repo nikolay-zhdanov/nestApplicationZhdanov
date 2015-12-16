@@ -50,7 +50,6 @@ public class TermostatService implements TermostatServiceBO {
         }
 
         public void onDataChange(String value) {
-//            logger.info(type + ": " + value);
             logger.info(value);
 
         }
